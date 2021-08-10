@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### Peer-Reviewed Publications
+## Peer-Reviewed Publications
 [Transmission Integration and the Market for Congestion Revenue Rights](https://doi.org/10.5547/01956574.42.5.gdos) <br/>
 Gaurav Doshi and [Sheldon (Xiaodong) Du](https://aae.wisc.edu/faculty/xdu23/) <br/>
 The Energy Journal 42(5), 247-281 (2021) <br/>
@@ -14,14 +14,14 @@ The Energy Journal 42(5), 247-281 (2021) <br/>
 Texas electricity market saw a recent integration of electricity transmission as a part of Competitive Renewable Energy Zones (CREZ). Exploiting the commissioning date of CREZ based transmission integration as an exogenous shock, we analyze the effect of transmission expansion on market clearing prices of Congestion Revenue Rights (CRR). Reduced form estimates suggest that excess transmission led to a lowering of CRR prices for contracts at all Times of Use. We find strong evidence of spatial, distributional, and firm specific heterogeneity. The paper shows that transmission expansion enhanced efficiency of the CRR market in terms of a spatial convergence in prices and a decrease in aggregate auction expenditure of approximately $260 million over a period of 4.5 years post CREZ.
  </details> 
  
-### Working Papers
+## Working Papers
 An Equilibrium Analysis of Power Purchase Agreement <br/> with [Yeon Ju Baik](https://econ.wisc.edu/staff/baik-yeon-ju/) (_submitted_)
 <details><summary>Abstract</summary>
 Power Purchase Agreements (PPAs) are widely used long-term contracts to purchase electricity from renewable sources at a fixed price over long periods. This paper investigates the link between the risks associated with renewable power generation - specifically risks due to wholesale electricity price and project capacity. We examine a buyer's and seller's choice to participate in the PPA market using a stylized model. The equilibrium price is modeled as a function of wholesale market price and contracted quantity. Using the data on all utility-scale wind projects in the US, we test the predictions from the theoretical model in the empirical analysis of this paper. We show that the mean retail and wholesale electricity market price has a positive association with PPA prices whereas wholesale price volatility has a negative association with PPA prices. The sensitivity of the PPA prices are dependent on the participation decision of the buyers and sellers of electricity. Therefore, regulators should consider potential impacts of government policy on barriers to entry and length of contracts on PPA prices and therefore the financial returns of the renewable energy generators.
  </details>  
 
 
-### Work in Progress
+## Work in Progress
 
 Wiring America: The Short- and Long-Run Effects of Electricity Grid Expansion <br/>
 [[Job Market Paper](/files/JMP_Draft_GD.pdf){:target="_blank"}] [[Slides (15/20 minutes)](/files/EMEE_2021.pdf){:target="_blank"}] <br/>
@@ -42,7 +42,7 @@ This paper examines the effects of electricity market deregulation and long term
 Coming soon!
  </details> -->
 
-### Book Chapters
+## Book Chapters
  
 [Trade Growth Accounting in Goods and Services: An Empirical Exercise](https://doi.org/10.1007/978-981-10-1759-9_5) <br/>
 Somesh K. Mathur, Sarabjit Singh, Gaurav Doshi, Abhishek Srivastava <br/>
