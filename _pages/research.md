@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Job Market Paper
-
 Wiring America: The Short- and Long-Run Effects of Electricity Grid Expansion <br/>
 [[PDF](/files/JMP_Draft_GD.pdf){:target="_blank"}] [[Slides (15/20 minutes)](/files/EMEE_2021.pdf){:target="_blank"}] <br/>
 
@@ -24,7 +23,6 @@ Texas electricity market saw a recent integration of electricity transmission as
  </details> 
  
  ## Working Papers
-
 Electricity Market Structure and Technology Adoption: Evidence from Renewable Energy <br/> with [Sarah Johnston](https://www.sarahbjohnston.com/)
 <details><summary>Abstract</summary>
 This paper examines the effects of electricity market deregulation and long term contracting on technology adoption in the solar and wind industries in the US. Using data on all the solar and wind projects from 2001-2019, we estimate discrete choice models of technology adoption as a function of market structure and other characteristics. Results indicate that long term power purchase aggreements play a major role in technology adoption in the wind industry. The decision of solar projects to adopt tracking technology is a function of project size with smaller projects in deregulated markets less likely to adopt tracking. We do not find significant evidence that competition promotes technology adoption, but it may hinder adoption if it reduces the use of long-term contracts.  
@@ -35,7 +33,6 @@ This paper examines the effects of electricity market deregulation and long term
 Power Purchase Agreements (PPAs) are widely used long-term contracts to purchase electricity from renewable sources at a fixed price over long periods. This paper investigates the link between the risks associated with renewable power generation - specifically risks due to wholesale electricity price and project capacity. We examine a buyer's and seller's choice to participate in the PPA market using a stylized model. The equilibrium price is modeled as a function of wholesale market price and contracted quantity. Using the data on all utility-scale wind projects in the US, we test the predictions from the theoretical model in the empirical analysis of this paper. We show that the mean retail and wholesale electricity market price has a positive association with PPA prices whereas wholesale price volatility has a negative association with PPA prices. The sensitivity of the PPA prices are dependent on the participation decision of the buyers and sellers of electricity. Therefore, regulators should consider potential impacts of government policy on barriers to entry and length of contracts on PPA prices and therefore the financial returns of the renewable energy generators.
  </details>  
  
- 
 <!-- Does Transmission Expansion lead to over investment in Wind Energy? Evidence from Texas <br/> (_with [Yeon Ju Baik](https://econ.wisc.edu/staff/baik-yeon-ju/)_)
 <br/>
 <details><summary>Abstract</summary>
@@ -43,7 +40,6 @@ Coming soon!
  </details> -->
 
 ## Other Research
- 
 [Trade Growth Accounting in Goods and Services: An Empirical Exercise](https://doi.org/10.1007/978-981-10-1759-9_5) <br/>
 Somesh K. Mathur, Sarabjit Singh, Gaurav Doshi, Abhishek Srivastava <br/>
 In: Mathur S., Arora R., Singh S. (eds) Theorizing International Trade. Palgrave Macmillan, Singapore (2017) <br/>
